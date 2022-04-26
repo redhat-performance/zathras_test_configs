@@ -1,0 +1,14 @@
+setup.conf is used for overriding various values.  Currently supported are
+AWS_USER: which designates the AWS user to use
+AWS_SEC_GRP: which designates the AWS security group.
+
+Note none of the values provided are verified before they are used.
+
+Format
+
+AWS_USER: user1
+AWS_SEC_GRP: user1_secgrp
+
+Any extra upload files must be provided by the user and the appropriate test template updated.
+
+pbench location and values is the responsiblity of the user.

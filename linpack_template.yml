@@ -1,0 +1,10 @@
+location: https://github.com/redhat-performance/linpack-wrapper/archive/refs/tags
+exec_dir: "linpack-wrapper-1.0/linpack"
+repo_file: "v1.0.zip"
+os_supported: all
+rhel_pkgs: bc,numactl
+ubuntu_pkgs: unzip,zip
+amazon_pkgs: bc,git,zip,unzip
+test_script_to_run: linpack_run
+test_specific: "--interleave all"
+upload_extra: "none"
