@@ -1,6 +1,6 @@
-location:  https://github.com/redhat-performance/aim7-wrapper/archive/refs/tags
-exec_dir: "aim7-wrapper-1.0/aim7"
-repo_file: "v1.0.zip"
+location: https://github.com/redhat-performance/aim7-wrapper/archive/refs/tags
+exec_dir: "aim7-wrapper-1.2/aim7"
+repo_file: "v1.2.zip"
 test_grouping: aim7
 os_supported: all
 rhel_pkgs: gcc,make,bc

@@ -1,6 +1,6 @@
 location: https://github.com/redhat-performance/uperf-wrapper/archive/refs/tags
-exec_dir: "uperf-wrapper-1.0/uperf"
-repo_file: "v1.0.zip"
+exec_dir: "uperf-wrapper-1.3/uperf"
+repo_file: "v1.3.zip"
 rhel_pkgs: python3,gcc,lksctp-tools-devel,bc
 ubuntu_pkgs: gcc,python3,libsctp-dev,lksctp-tools,libusrsctp-dev,make,net-tools,dh-autoreconf,zip,unzip
 amazon_pkgs: git,python3,gcc,lksctp-tools-devel,xorg-x11-xauth

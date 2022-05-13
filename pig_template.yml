@@ -1,6 +1,6 @@
 location: https://github.com/redhat-performance/pig_wrapper/archive/refs/tags
-exec_dir: "pig_wrapper-1.0/pig"
-repo_file: "v1.0.zip"
+exec_dir: "pig_wrapper-1.1/pig"
+repo_file: "v1.1.zip"
 rhel_pkgs: numactl-devel,bc
 ubuntu_pkgs: libnuma-dev,gcc,unzip,zip
 amazon_pkgs: numactl,bc,git,zip,unzip

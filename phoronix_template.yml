@@ -1,6 +1,6 @@
 location: https://github.com/redhat-performance/phoronix-wrapper/archive/refs/tags
-exec_dir: "phoronix-wrapper-1.0/phoronix"
-repo_file: "v1.0.zip"
+exec_dir: "phoronix-wrapper-1.3/phoronix"
+repo_file: "v1.3.zip"
 rhel_pkgs: gcc,graphviz,python3,lksctp-tools-devel,php-cli,php-xml,php-json,bc
 ubuntu_pkgs: gcc,graphviz,python3,lksctp-tools-devel,php-cli,php-xml,php-json,unzip,bc
 amazon_pkgs: build-essential,gcc,graphviz,python3,bc,git,zip,unzip,php-cli,php-xml

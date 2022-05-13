@@ -1,6 +1,6 @@
 location: https://github.com/redhat-performance/hammerdb-wrapper/archive/refs/tags
-exec_dir: "hammerdb-wrapper-1.0/hammerdb"
-repo_file: "v1.0.zip"
+exec_dir: "hammerdb-wrapper-1.1/hammerdb"
+repo_file: "v1.1.zip"
 os_supported: all
 rhel_pkgs_9: lvm2,sysstat,tar,bc,nvme-cli
 rhel_pkgs: lvm2,sysstat,tar,bc
